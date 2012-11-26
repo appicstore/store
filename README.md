@@ -1,4 +1,4 @@
-store
+AppicStore
 =====
 
 The official AppicStore
